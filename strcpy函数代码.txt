@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 char* StrCpy(char* src)
 {
 int L=len(src);
